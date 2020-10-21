@@ -21,3 +21,8 @@ A curated list of companies using Kotlin in production
 #### V - X
 * [Wirecard Brasil](https://wirecard.com.br/) | Itaim Bibi, São Paulo
 #### Y - Z
+
+
+## Inspiration
+
+Inspired on [Claudson Oliveira](https://github.com/filhodanuvem)'s [awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs). Kudos!
