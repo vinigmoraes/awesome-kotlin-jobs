@@ -9,6 +9,7 @@ A curated list of companies using Kotlin in production
 ## Brazil 🇧🇷
 
 #### A - C
+* [Alice](https://www.alice.com.br/) | Pinheiros, São Paulo
 * [AmeDigital](https://www.amedigital.com/) | Vila Olímpia, São Paulo
 * [C6Bank](https://www.c6bank.com.br/) | Jardim Paulista, São Paulo
 * [Creditas](https://www.creditas.com/) | Brooklin, São Paulo
