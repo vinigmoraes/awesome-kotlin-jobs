@@ -15,6 +15,7 @@ A curated list of companies using Kotlin in production
 * [Creditas](https://www.creditas.com/) | Brooklin, São Paulo
 #### D - F
 #### G - I
+* [Iti Itáu](https://iti.itau/) | Jabaquara, São Paulo
 #### J - L
 #### M - O
 #### P - R
