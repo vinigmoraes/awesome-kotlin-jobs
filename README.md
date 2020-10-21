@@ -1,3 +1,6 @@
+![marc-reichelt-azJJSiwWW90-unsplash](https://user-images.githubusercontent.com/11817331/96663127-6c348b80-1326-11eb-8e88-685f0e7db84f.jpg)
+
+
 # Awesome Kotlin Jobs
 A curated list of companies using Kotlin in production
 
