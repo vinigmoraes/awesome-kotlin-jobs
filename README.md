@@ -18,6 +18,7 @@ A curated list of companies using Kotlin in production
 #### J - L
 #### M - O
 #### P - R
+* [Quanto](https://quan.to/) | Pinheiros, São Paulo
 #### S - U
 #### V - X
 * [Wirecard Brasil](https://wirecard.com.br/) | Itaim Bibi, São Paulo
