@@ -20,6 +20,7 @@ A curated list of companies using Kotlin in production
 #### J - L
 #### M - O
 #### P - R
+* [PagSeguro] (https://dev.pagseguro.uol.com.br/) | Faria Lima, São Paulo
 * [Quanto](https://quan.to/) | Pinheiros, São Paulo
 #### S - U
 #### V - X
