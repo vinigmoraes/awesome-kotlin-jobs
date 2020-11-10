@@ -11,11 +11,6 @@ assignees: ''
 
 - *Name*:   
 
-- *About*: 
-
-```
-```
-
 - *Official website*: 
 
 ## Development Usage
