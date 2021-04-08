@@ -15,6 +15,7 @@ A curated list of companies using Kotlin in production
 * [Creditas](https://www.creditas.com/) | Brooklin, São Paulo
 * [C6Bank](https://www.c6bank.com.br/) | Jardim Paulista, São Paulo
 #### D - F
+* [Dextra](https://www.dextra.com.br/) | Campinas, São Paulo
 #### G - I
 * [Grão](https://www.grao.com.br/) | Vila Olímpia, São Paulo
 * [IFood](https://www.ifood.com.br/) | Osasco, São Paulo
