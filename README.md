@@ -29,7 +29,7 @@ A curated list of companies using Kotlin in production
 #### S - U
 * [SomosEducação](https://www.somoseducacao.com.br/en/main/) | Bela Vista, São Paulo
 #### V - X
-* [Via Varejo](https://www.viavarejo.com.br/marketplace-omnicanal/#hero) | São Caetano do Sul, São Paulo
+* [ViaVarejo](https://www.viavarejo.com.br/marketplace-omnicanal/#hero) | São Caetano do Sul, São Paulo
 * [Wirecard Brasil](https://wirecard.com.br/) | Itaim Bibi, São Paulo
 #### Y - Z
 
