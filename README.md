@@ -22,6 +22,7 @@ A curated list of companies using Kotlin in production
 #### M - O
 * [MovilePay](https://movilepay.ifood.com.br/movilepay) | Osasco, São Paulo
 #### P - R
+* [PeopleRH](https://rhpeople.com.br/) | Chapecó,Santa Catarina
 * [PagSeguro](https://dev.pagseguro.uol.com.br/) | Faria Lima, São Paulo
 * [Quanto](https://quan.to/) | Pinheiros, São Paulo
 #### S - U
