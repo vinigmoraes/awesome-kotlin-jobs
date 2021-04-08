@@ -16,6 +16,7 @@ A curated list of companies using Kotlin in production
 * [C6Bank](https://www.c6bank.com.br/) | Jardim Paulista, São Paulo
 #### D - F
 #### G - I
+* [Grão](https://www.grao.com.br/) | Vila Olímpia, São Paulo
 * [IFood](https://www.ifood.com.br/) | Osasco, São Paulo
 * [Iti Itáu](https://iti.itau/) | Jabaquara, São Paulo
 #### J - L
