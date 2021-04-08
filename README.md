@@ -20,7 +20,7 @@ A curated list of companies using Kotlin in production
 * [Iti Itáu](https://iti.itau/) | Jabaquara, São Paulo
 #### J - L
 #### M - O
-* [MovilePay] (https://movilepay.ifood.com.br/movilepay) | Osasco, São Paulo
+* [MovilePay](https://movilepay.ifood.com.br/movilepay) | Osasco, São Paulo
 #### P - R
 * [PagSeguro](https://dev.pagseguro.uol.com.br/) | Faria Lima, São Paulo
 * [Quanto](https://quan.to/) | Pinheiros, São Paulo
