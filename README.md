@@ -11,8 +11,9 @@ A curated list of companies using Kotlin in production
 #### A - C
 * [Alice](https://www.alice.com.br/) | Pinheiros, São Paulo
 * [AmeDigital](https://www.amedigital.com/) | Vila Olímpia, São Paulo
-* [C6Bank](https://www.c6bank.com.br/) | Jardim Paulista, São Paulo
+* [Cora](https://www.cora.com.br/) | Vila Olímpia, São Paulo
 * [Creditas](https://www.creditas.com/) | Brooklin, São Paulo
+* [C6Bank](https://www.c6bank.com.br/) | Jardim Paulista, São Paulo
 #### D - F
 #### G - I
 * [IFood](https://www.ifood.com.br/) | Osasco, São Paulo
