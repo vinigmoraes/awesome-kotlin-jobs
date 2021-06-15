@@ -17,6 +17,7 @@ A curated list of companies using Kotlin in production
 #### D - F
 * [Dextra](https://www.dextra.com.br/) | Campinas, São Paulo
 #### G - I
+* [Goomer](https://goomer.com.br/) | Sorocaba, São Paulo
 * [Grão](https://www.grao.com.br/) | Vila Olímpia, São Paulo
 * [IFood](https://www.ifood.com.br/) | Osasco, São Paulo
 * [Iti Itáu](https://iti.itau/) | Jabaquara, São Paulo
