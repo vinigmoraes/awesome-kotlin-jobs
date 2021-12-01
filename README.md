@@ -25,10 +25,12 @@ A curated list of companies using Kotlin in production
 #### J - L
 #### M - O
 * [MovilePay](https://movilepay.ifood.com.br/movilepay) | Osasco, São Paulo
+* [Neogrid](https://neogrid.com.br/) | Joinville, Santa Catarina
 #### P - R
 * [PeopleRH](https://rhpeople.com.br/) | Chapecó,Santa Catarina
 * [PagSeguro](https://dev.pagseguro.uol.com.br/) | Faria Lima, São Paulo
 * [Quanto](https://quan.to/) | Pinheiros, São Paulo
+* [Renner](https://lojasrenner.com.br/) | Porto Alegre, Rio Grande do Sul
 #### S - U
 * [SomosEducação](https://www.somoseducacao.com.br/en/main/) | Bela Vista, São Paulo
 #### V - X
